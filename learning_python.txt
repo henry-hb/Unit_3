@@ -1,0 +1,3 @@
+In Python you can do lots of extra things that are not possible in java.
+In Python you can use lots of built in functions that are more intuitive than java.
+In Python you can use lots more importing and reading and it's more accessible than java.
