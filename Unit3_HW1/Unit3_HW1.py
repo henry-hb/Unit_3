@@ -1,6 +1,6 @@
 #10-1
 from pathlib import Path
-path = Path("learning_python.txt")
+path = Path("Unit3_HW1/learning_python.txt")
 contents = path.read_text()
 print(contents)
 lines = contents.splitlines()
